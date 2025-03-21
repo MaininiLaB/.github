@@ -1,2 +1,3 @@
 # .github
-MaininiLaB organisation profile
+
+Special repository for the MainiLab organisation
